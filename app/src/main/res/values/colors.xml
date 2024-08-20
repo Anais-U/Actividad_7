@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores para Tema 1 -->
+    <color name="primaryColorTheme1">#6200EE</color>
+    <color name="primaryDarkColorTheme1">#3700B3</color>
+    <color name="accentColorTheme1">#03DAC5</color>
+    <color name="buttonColorTheme1">#FFBB86FC</color>
+    <color name="buttonTextColorTheme1">#FFFFFF</color>
+    <color name="textColorTheme1">#000000</color>
+    <color name="backgroundColorTheme1">#FFFFFF</color>
+
+    <!-- Colores para Tema 2 -->
+    <color name="primaryColorTheme2">#FF5722</color>
+    <color name="primaryDarkColorTheme2">#E64A19</color>
+    <color name="accentColorTheme2">#FF9800</color>
+    <color name="buttonColorTheme2">#FFC107</color>
+    <color name="buttonTextColorTheme2">#000000</color>
+    <color name="textColorTheme2">#FFFFFF</color>
+    <color name="backgroundColorTheme2">#212121</color>
+</resources>

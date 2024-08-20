@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema 1 -->
+    <style name="Theme.MyApp.Theme1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryColorTheme1</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColorTheme1</item>
+        <item name="colorAccent">@color/accentColorTheme1</item>
+        <item name="android:buttonStyle">@style/Widget.MyApp.Button.Theme1</item>
+        <item name="android:textViewStyle">@style/Widget.MyApp.TextView.Theme1</item>
+        <item name="android:windowBackground">@color/backgroundColorTheme1</item>
+    </style>
+
+    <!-- Tema 2 -->
+    <style name="Theme.MyApp.Theme2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryColorTheme2</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColorTheme2</item>
+        <item name="colorAccent">@color/accentColorTheme2</item>
+        <item name="android:buttonStyle">@style/Widget.MyApp.Button.Theme2</item>
+        <item name="android:textViewStyle">@style/Widget.MyApp.TextView.Theme2</item>
+        <item name="android:windowBackground">@color/backgroundColorTheme2</item>
+    </style>
+
+    <!-- Estilo para botones en Tema 1 -->
+    <style name="Widget.MyApp.Button.Theme1" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/buttonColorTheme1</item>
+        <item name="android:textColor">@color/buttonTextColorTheme1</item>
+    </style>
+
+    <!-- Estilo para TextView en Tema 1 -->
+    <style name="Widget.MyApp.TextView.Theme1" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">@color/textColorTheme1</item>
+    </style>
+
+    <!-- Estilo para botones en Tema 2 -->
+    <style name="Widget.MyApp.Button.Theme2" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/buttonColorTheme2</item>
+        <item name="android:textColor">@color/buttonTextColorTheme2</item>
+    </style>
+
+    <!-- Estilo para TextView en Tema 2 -->
+    <style name="Widget.MyApp.TextView.Theme2" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">@color/textColorTheme2</item>
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">activity7</string>
+    <string name="primary_color">Primary color</string>
+    <string name="secondary_color">Secondary color</string>
+    <string name="email_icon">email icon</string>
+    <string name="widget_text">Hola, soy un Widget</string>
+    <string name="widget_button">Presióname</string>
+    <string name="textView">Bienvenido a mi App</string>
+    <string name="editText">Ingresa tu nombre</string>
+    <string name="button">Iniciar</string>
+    <string name="buttonChangeTheme">Cambiar Tema</string>
+    <string name="textCounter">0</string>
+    <string name="buttonCounter">Incrementar</string>
+    <string name="buttonReset">Reiniciar</string>
+    <string name="textWidget">Hola, soy un widget!</string>
+
+</resources>
